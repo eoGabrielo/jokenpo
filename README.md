@@ -15,7 +15,7 @@ Bem-vindo ao Jokenpo! Este é um simples jogo de pedra, papel e tesoura implemen
 
 ## Explicação do codigo
 
-Este código é uma implementação simples do jogo "Pedra, Papel e Tesoura" (ou "Jokenpo") em Python. Vou explicar cada parte do código detalhadamente:
+Este código é uma implementação simples do jogo "Pedra, Papel e Tesoura" (ou "Jokenpo") em Python.
 
 1. Importar a biblioteca `random` para gerar números aleatórios.
    
